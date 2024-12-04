@@ -1,6 +1,6 @@
 # My Wallpaper Collection
 
-<img src="https://www.github.com/notAxon/wallpapers/blob/main/*" width=50% height=50%>
+### also check out my ![podium of wallpapers](https://www.github.com/notAxon/very-good-wallpapers/blob/main/) !
 
 ![weathering with you](https://github.com/notAxon/wallpapers/blob/main/Anime/wallpaperflare.com_wallpaper(36).jpg)
 
