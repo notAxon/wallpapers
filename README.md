@@ -20,10 +20,21 @@
 
 ![mystical](https://github.com/notAxon/wallpapers/blob/main/mystical/wallpaperflare.com_wallpaper(27).jpg)
 
-![forest](https://github.com/notAxon/wallpapers/blob/main/Nature/wallpaperflare.com_wallpaper%20(25).jpg)
-
 ![nord](https://github.com/notAxon/wallpapers/blob/main/nord/ign_evening.png)
 
-![space](https://github.com/notAxon/wallpapers/blob/main/Space/1440p-space-2560-x-1440-cfftslxd0xl0nbl8_webp.png)
+![pool](https://github.com/notAxon/wallpapers/blob/main/Anime/cPmfgzR.png)
+
+![bath](https://github.com/notAxon/wallpapers/blob/main/cozy/bath.png)
+
+![storm](https://github.com/notAxon/wallpapers/blob/main/mystical/vyn4bt2il5vd1.png)
+
+![garden](https://github.com/notAxon/wallpapers/blob/main/Nature/dark.png)
+
+![statue](https://github.com/notAxon/wallpapers/blob/main/Nature/statue.jpg)
+
+![mist](https://github.com/notAxon/wallpapers/blob/main/Nature/mist.jpg)
 
 ![nord monochrome](https://github.com/notAxon/wallpapers/blob/main/Abstract/nord-3.png)
+
+
+
