@@ -1,6 +1,6 @@
 # My Wallpaper Collection
 
-### also check out my ![podium of wallpapers](https://www.github.com/notAxon/very-good-wallpapers/blob/main/) !
+### also check out my ![podium of wallpapers](https://www.github.com/notAxon/very-good-wallpapers/) !
 
 ![weathering with you](https://github.com/notAxon/wallpapers/blob/main/Anime/wallpaperflare.com_wallpaper(36).jpg)
 
