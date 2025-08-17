@@ -1,1 +1,1 @@
-<img src="README.md" alt=""/>
+<img src="catppuccin" alt=""/>
