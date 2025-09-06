@@ -1,6 +1,5 @@
 <img src="1080p.jpg" alt=""/>
 <img src="1168468.jpg" alt=""/>
-<img src="1280310.jpg" alt=""/>
 <img src="12-Dark.jpg" alt=""/>
 <img src="16108.jpg" alt=""/>
 <img src="25580.jpg" alt=""/>
@@ -12,8 +11,10 @@
 <img src="CyanGradient.png" alt=""/>
 <img src="DopqTgT.png" alt=""/>
 <img src="hwjgad8gaukc1.jpeg" alt=""/>
+<img src="IMG_0094_jpg.png" alt=""/>
 <img src="jo0jamlw69o91.jpg" alt=""/>
 <img src="macchiato-blahaj.png" alt=""/>
+<img src="magicpattern-87PP9Zd7MNo-unsplash_jpg.png" alt=""/>
 <img src="Mocha-hald10-01_png.png.png" alt=""/>
 <img src="nord-1.png" alt=""/>
 <img src="nord-3.png" alt=""/>

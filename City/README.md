@@ -9,6 +9,7 @@
 <img src="8zzxxe0zoxue1_png.png" alt=""/>
 <img src="Afternoon.png" alt=""/>
 <img src="another-road-trees.jpg" alt=""/>
+<img src="betl_ax_jpg.png" alt=""/>
 <img src="canvas.png" alt=""/>
 <img src="city-landscapeHI-RES.png" alt=""/>
 <img src="cityscape-sky.jpg" alt=""/>
@@ -29,6 +30,7 @@
 <img src="river.png" alt=""/>
 <img src="ruin.png" alt=""/>
 <img src="solarized.jpg" alt=""/>
+<img src="solcity_jpg.png" alt=""/>
 <img src="Street.jpg" alt=""/>
 <img src="tenl321ywabb1.jpg" alt=""/>
 <img src="times-square-night.jpg" alt=""/>

@@ -30,6 +30,7 @@
 <img src="various-os-2-4k.png" alt=""/>
 <img src="wallhaven-4ommo9_jpg.png" alt=""/>
 <img src="wallhaven-o33x55_png.png" alt=""/>
+<img src="wallhaven-qzlm2l_jpg.png" alt=""/>
 <img src="wallhaven-wqqerq_png.png" alt=""/>
 <img src="wallpaperflare.com_wallpaper(17).jpg" alt=""/>
 <img src="wallpaperflare.com_wallpaper (26).jpg" alt=""/>
