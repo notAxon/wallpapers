@@ -24,9 +24,9 @@
 <img src="gentoo-black-4k.png" alt=""/>
 <img src="gxcqd5okjhl71.png" alt=""/>
 <img src="images.jpeg" alt=""/>
+<img src="macOS-Sequoia-Helios-Light.jpg" alt=""/>
 <img src="macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-4096x2304-1455.jpg" alt=""/>
 <img src="macos-big-sur-wallpaper-15.jpg" alt=""/>
-<img src="macOS-Sequoia-Helios-Light.jpg" alt=""/>
 <img src="manjaro-black-4k.png" alt=""/>
 <img src="mid" alt=""/>
 <img src="mint-black-4k.png" alt=""/>
