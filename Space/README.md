@@ -19,10 +19,10 @@
 <img src="Astronaut.jpg" alt=""/>
 <img src="Endy_vector_EOS-planet.png" alt=""/>
 <img src="Endy_vector_satelliet.png" alt=""/>
-<img src="LAUNCH-Morning.png" alt=""/>
 <img src="galaxy.png" alt=""/>
 <img src="galen-crout-175291.jpg" alt=""/>
 <img src="gruv-ixion.jpg" alt=""/>
+<img src="LAUNCH-Morning.png" alt=""/>
 <img src="over-earth.jpg" alt=""/>
 <img src="p0h4e5n72ksd1.png" alt=""/>
 <img src="two-astronauts.png" alt=""/>

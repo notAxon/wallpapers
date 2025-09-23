@@ -1,4 +1,3 @@
-<img src="RAIN_uniunimikan.png" alt=""/>
 <img src="__original_drawn_by_uniunimikan__sample-017ed3628580fda0850417eb793f5401.jpg" alt=""/>
 <img src="__original_drawn_by_uniunimikan__sample-0d74c2e45e5aa8a2f395d41b825e6abd.jpg" alt=""/>
 <img src="__original_drawn_by_uniunimikan__sample-251f5626971955d7c6ed4c007686f964.jpg" alt=""/>
@@ -11,3 +10,4 @@
 <img src="__original_drawn_by_uniunimikan__sample-9188353865952443a97600baf36313da.jpg" alt=""/>
 <img src="__original_drawn_by_uniunimikan__sample-c5c17034bf86e46963cbe5b1ca867a26.jpg" alt=""/>
 <img src="__original_drawn_by_uniunimikan__sample-f1b8c16a4cabc6bd5bdf4adb1ac92a73.jpg" alt=""/>
+<img src="RAIN_uniunimikan.png" alt=""/>
